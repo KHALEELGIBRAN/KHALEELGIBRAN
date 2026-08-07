@@ -17,7 +17,6 @@
 ```kotlin
 data class Developer(
     val name: String = "Khaleel Gibran",
-    val born: String = "December 27, 1996 · Ernakulam, Kerala",
     val basedIn: String = "Bengaluru, Karnataka",
     val experience: String = "4+ years",
     val roles: List<String> = listOf(
